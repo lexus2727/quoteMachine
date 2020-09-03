@@ -1,0 +1,23 @@
+body {
+    background-color:#ff8080;
+}
+
+#container {
+    background-color:#ffcccc;
+    border: 5px solid #ffffcc;
+    height: 275px;
+    width: 750px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+
+#btn {
+    margin: 50px;
+    height: 50px;
+    width: 250px;
+    font-size: 27px;
+    background-color: #ffffe6;
+    color: black;
+}
