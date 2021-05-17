@@ -36,12 +36,13 @@ h1 {
     border: 2px black solid;
     background-color: #ffffe6;
     color: black;
+    text-align:center;
 }
 
 #output {
     margin: 27px auto;
     font-size: 20px;
     color: white;
-     font-family: 'Courgette';
+    font-family: 'Courgette';
     
 }
