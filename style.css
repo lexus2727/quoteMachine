@@ -1,3 +1,18 @@
+body {
+    
+    background:linear-gradient(to right, rgb(254, 140, 0), rgb(248, 54, 0));
+    }
+
+#container {
+   background-color: magenta;
+    border: 5px white solid;
+    height: 275px;
+    width: 750px;
+    margin: 90px auto;
+    text-align: center;
+    
+}
+
 h1 {
     text-align:center;
     font-size: 40px;
