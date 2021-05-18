@@ -3,11 +3,14 @@ Random quotes are displayed when button is clicked.
 The background color changes when button is clicked too.
 
 
-![image](https://user-images.githubusercontent.com/48888775/118549466-8225f580-b729-11eb-813a-db5baf2986e9.png)
+![image](https://user-images.githubusercontent.com/48888775/118573780-36874200-b751-11eb-94e2-9fb2bfbcfa3a.png)
 
-![image](https://user-images.githubusercontent.com/48888775/118550931-4e4bcf80-b72b-11eb-8290-af003ba53168.png)
+![image](https://user-images.githubusercontent.com/48888775/118573839-4737b800-b751-11eb-80b1-38cc23d6c246.png)
 
-![image](https://user-images.githubusercontent.com/48888775/118551128-8c48f380-b72b-11eb-8bea-9b54b3c6ee2b.png)
+![image](https://user-images.githubusercontent.com/48888775/118573880-5d457880-b751-11eb-889f-80d6434bdaac.png)
+
+
+
 
 
 
