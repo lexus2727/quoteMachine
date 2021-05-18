@@ -1,6 +1,6 @@
 # quoteMachine
 Random quotes are displayed when button is clicked. 
-The background color changes when button is clicked too.
+The background color changes inside the container when button is clicked too.
 
 https://wellnessquotes.netlify.app
 
