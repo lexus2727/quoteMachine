@@ -12,7 +12,7 @@ display:flex;
    background-color: magenta;
     border: 7px white solid;
     height: 275px;
-    width: 750px;
+    width: 770px;
     margin: 90px auto;
     text-align: center;
     position:relative;
@@ -37,6 +37,11 @@ h1 {
     background-color: #ffffe6;
     color: black;
     text-align:center;
+    position: absolute;
+    bottom: 90px;
+  
+    
+    
 }
 
 #output {
